@@ -5,3 +5,9 @@
 [テキスト](https://github.com/ohr486/ElixirHandsOn201906/wiki)
 
 [回答サンプル:課題](https://github.com/ohr486/ElixirHandsOn201906/blob/master/basic/lib/basic.ex)
+
+## サンプルコード
+
+[課題回答](https://github.com/ohr486/ElixirHandsOn201906/tree/master/basic)
+
+[Flow例](https://github.com/ohr486/ElixirHandsOn201906/tree/master/flow_example)
